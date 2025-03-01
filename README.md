@@ -14,9 +14,8 @@ This project involves the development of a speed estimation system using YOLO (Y
 ## Requirements
 
 - Python 3.x
-- TensorFlow
 - OpenCV
-- YOLOv3 or YOLOv4 pre-trained weights
+- YOLOv8 pre-trained weights
 - NumPy
 - Matplotlib
 
