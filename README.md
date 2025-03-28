@@ -75,6 +75,19 @@ This project involves the development of a speed estimation system using YOLO (Y
 
 ## 📸 Demo
 ### 🎬 Input Video
+<<<<<<< HEAD
+![Input Video](readmejunks/readmejunks\download.mp4)
+
+### 🎬 Output Video
+![Output Video](readmejunks/readmejunks\output_video.mp4)
+
+### 📷 Working Proof
+#### Before Processing:
+![Before Processing](readmejunks/input_image.png)
+
+#### After Processing:
+![After Processing](readmejunks/output_image.png)
+=======
 ![Input Video](readmejunks/image.png)
 
 ### 🎬 Output Video
@@ -86,6 +99,7 @@ This project involves the development of a speed estimation system using YOLO (Y
 
 #### After Processing:
 ![After Processing](readmejunks/output_video.mp4)
+>>>>>>> 70e524d15deff5a691da4a671eac79e8ab6b5585
 
 ## 📝 License
 This project is open-source and available under the MIT License.
