@@ -63,7 +63,7 @@ def process_frame(frame, model):
     return frame
 
 # Input and Output Video Paths
-video_path = "samples/2.mp4"  # Change this to your video file path
+video_path = "readmejunks\download.mp4"  # Change this to your video file path
 output_path = "output_video.mp4"  # Save output as MP4
 
 # Open video file
