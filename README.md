@@ -51,7 +51,7 @@ This project involves the development of a speed estimation system using YOLO (Y
 ### Using the Main Script (Choose Input Mode):
    ```bash
    python main.py
-<<<<<<< HEAD
+
 =======
    ```
    - It will prompt you to enter `w` for Webcam or `v` for a Video file.
@@ -93,5 +93,5 @@ This project is open-source and available under the MIT License.
 
 ---
 💡 **Feel free to contribute and improve the project!** 🚀
->>>>>>> 1b0890693b4a3b43fd9c3a28d8b4ae43d4f46927
+
 
