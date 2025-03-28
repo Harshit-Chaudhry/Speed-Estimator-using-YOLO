@@ -54,11 +54,11 @@ Run one of the following based on your use case:
 
 - **For Webcam Live Detection**:  
   ```bash
-  python main.py
+  python webcam.py
   ```
 - **For Video File Processing**:  
   ```bash
-  python vid_main.py
+  python video_capture.py
   ```
 
 ---
@@ -82,12 +82,12 @@ SPEED-ESTIMATOR-USING-YOLO/
 │   ├── output_video.mp4       # Final processed video showing vehicle detection
 │── .gitignore                  # Git ignore file
 │── LICENSE                     # Project license
-│── main.py                     # Main script for webcam-based speed detection
-│── vid_main.py                 # Script for processing video files
-│── trials.ipynb                # Jupyter Notebook for testing
-│── yolov8n.pt                  # YOLOv8 pre-trained weights
-│── requirements.txt             # Required dependencies
 │── README.md                    # This file
+│── requirements.txt             # Required dependencies
+│── trials.ipynb                 # Jupyter Notebook for testing
+│── video_capture.py             # Script for processing video files
+│── webcam.py                    # Script for real-time webcam detection
+│── yolov8n.pt                   # YOLOv8 pre-trained weights
 ```
 
 ---
@@ -107,8 +107,8 @@ Detected vehicles are **highlighted with bounding boxes**, and their **estimated
 
 ## 📌 Code Files Explanation  
 
-- **`main.py`** → Runs **real-time vehicle detection** using a **live webcam feed**.  
-- **`vid_main.py`** → Processes **pre-recorded video files** to **detect vehicles** and **estimate speed**.  
+- **`webcam.py`** → Runs **real-time vehicle detection** using a **live webcam feed**.  
+- **`video_capture.py`** → Processes **pre-recorded video files** to **detect vehicles** and **estimate speed**.  
 - **`trials.ipynb`** → Jupyter Notebook for **testing and debugging** detection logic.  
 
 ---
@@ -144,4 +144,4 @@ Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 ## 📜 License  
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**.  
