@@ -51,4 +51,47 @@ This project involves the development of a speed estimation system using YOLO (Y
 ### Using the Main Script (Choose Input Mode):
    ```bash
    python main.py
+<<<<<<< HEAD
+=======
+   ```
+   - It will prompt you to enter `w` for Webcam or `v` for a Video file.
+
+## 📂 Project Structure
+```
+📁 speed-estimator-using-yolo
+│── .venv/                  # Virtual environment (optional)
+│── readmejunks/            # Folder for demo media files
+│   ├── download.mp4        # Sample input video
+│   ├── output_video.mp4    # Output result video
+│   ├── image.png           # Sample output image
+│── .gitignore              # Git ignore file
+│── LICENSE                 # License file
+│── main.py                 # Main script for detection
+│── README.md               # Documentation
+│── requirements.txt        # Required dependencies
+│── trials.ipynb            # Jupyter notebook for testing
+│── video_capture.py        # Script for processing video files
+│── webcam.py               # Script for processing webcam feed
+│── yolov8n.pt              # Pre-trained YOLOv8 model
+```
+
+## 📸 Demo
+
+### 📷 Working Proof
+
+#### Before Processing:
+![Before Processing](readmejunks/input_image.png)
+
+#### After Processing:
+![After Processing](readmejunks/output_image.png)
+=======
+
+
+
+## 📝 License
+This project is open-source and available under the MIT License.
+
+---
+💡 **Feel free to contribute and improve the project!** 🚀
+>>>>>>> 1b0890693b4a3b43fd9c3a28d8b4ae43d4f46927
 
