@@ -1,5 +1,3 @@
-
-```md
 # 🚗 Speed Estimation Project using YOLO Models  
 
 ## 📌 Description  
@@ -146,14 +144,4 @@ Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 ## 📜 License  
 
-This project is licensed under the **MIT License**.  
-```
-
----
-
-### **🔧 Changes Based on Your File Structure**
-✅ Updated paths to match **`readmejunks/`** for **demo videos**.  
-✅ Updated scripts to **`main.py`** (webcam) and **`vid_main.py`** (video processing).  
-✅ Included **`trials.ipynb`** in the file structure as a testing/debugging file.  
-
-**Now your README perfectly matches your project files!** 🚀🔥 Let me know if you need further modifications. 😊
+This project is licensed under the **MIT License**.
